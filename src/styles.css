@@ -1,0 +1,12 @@
+.color-picker {
+    -fx-background-color: #F54A00;
+    -fx-background-radius: 0 15 15 0;
+}
+.color-picker .color-picker-label .text {
+    -fx-fill: #ccffcc;
+}
+
+.selected-radio-button .dot {
+    -fx-mark-highlight-color: #FAC500 ;
+    -fx-mark-color: #FAC500 ;
+}
